@@ -1,6 +1,6 @@
 Name:		texlive-tile-graphic
 Version:	55325
-Release:	1
+Release:	2
 Summary:	Create tiles of a graphical file
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tile-graphic
