@@ -3,7 +3,7 @@ Version:	55325
 Release:	2
 Summary:	Create tiles of a graphical file
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/tile-graphic
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/tile-graphic
 License:	lppl1.2
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tile-graphic.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/tile-graphic.doc.r%{version}.tar.xz
